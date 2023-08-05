@@ -7,6 +7,7 @@
     font-weight: normal;
 }
 .headband {
-    height: 20px;
+    opacity: 0.5;
+    height: 5px;
     background: rgb(113, 81, 253)
 }
