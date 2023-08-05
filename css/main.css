@@ -1,9 +1,10 @@
-h1 {
-    font-size: 24px;
-    background-color:black;
-    color:white;
-    text-align:center;
-    padding: 5px 30px 5px 30px;
+.site-title {
+    opacity:1;
+    display: inline-block;
+    vertical-align: top;
+    line-height: 36px;
+    font-size: 20px;
+    font-weight: normal;
 }
 .headband {
     height: 20px;
