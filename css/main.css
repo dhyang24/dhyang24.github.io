@@ -1,3 +1,10 @@
+h1 {
+    font-size: 24px;
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding: 5px 30px 5px 30px;
+}
 .headband {
     height: 20px;
     background: rgb(113, 81, 253)
